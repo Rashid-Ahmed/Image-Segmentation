@@ -1,2 +1,2 @@
 # Image-Segmentation
-Doing image segmentation on a basic conv net and a r2unet
+Performing Image segmentation using both a basic conv net and a r2unet
